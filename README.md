@@ -12,7 +12,7 @@
 
 </p> 
 
-- 🏢 I'm a data analyst | machine learning Engineer 
+- 🏢 I'm a data scientist | machine learning Engineer 
 - 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with python, SQL, Database ,PowerBI, Machine learning and Deep learning  or anything related to Data Science.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
